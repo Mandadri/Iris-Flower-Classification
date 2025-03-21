@@ -1,6 +1,6 @@
 # Iris Flower Classification
 
-**GrowthLink Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
+**GrowthLink Internship Project** 
 
 ![MasterHead](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png)
 

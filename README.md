@@ -1,6 +1,6 @@
 # Iris Flower Classification
 
-**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
+**GrowthLink Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
 
 ![MasterHead](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png)
 
@@ -22,13 +22,12 @@ The objective of this project is to develop a machine learning model capable of 
 
 **Project Details:**
 
-- **Iris Species:** The dataset consists of iris flowers, specifically from the species setosa, versicolor, and virginica.
-- **Key Measurements:** The essential characteristics used for classification include sepal length, sepal width, petal length, and petal width.
-- **Machine Learning Model:** The project involves the creation and training of a machine learning model to accurately classify iris flowers based on their measurements.
-
-This project's significance lies in its potential to streamline and automate the classification of iris species, which can have broader applications in botany, horticulture, and environmental monitoring.
-
----
+-Develop a classification model to identify Iris flowers into three species.
+• Dataset includes sepal and petal length/width measurements for different species. 
+• Identify the most significant features influencing flower species classification. 
+• Evaluate model performance using appropriate techniques. 
+• Expected outcome: A machine learning model with high species identification accuracy. 
+• Submit a GitHub repository with organized code, preprocessing details, model selection, and evaluation results.
 
 ## Project Summary
 
@@ -82,9 +81,8 @@ In conclusion, the Iris flower classification project successfully employed Rand
 
 ## Author
 
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
+[MANDADRI ROHITH) (www.linkedin.com/in/mandadri-rohith-a418901a6)
 
----
 
-## Reference#
- - [Oasis Infobyte](https://oasisinfobyte.com/)
+
+
